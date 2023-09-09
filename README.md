@@ -1,7 +1,6 @@
+<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/Breno-Crespo/7d81088ed99200c037b3aa1f20c91cae/raw/3a3803902c997246eda3f4a6dfd01aad2ec789ee/githubcard.svg"/>
+
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, 👋  I'm Breno Crespo</h1>
-
-
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/Breno-Crespo/7d81088ed99200c037b3aa1f20c91cae/raw/3a3803902c997246eda3f4a6dfd01aad2ec789ee/githubcard.svg"/>
 
 
 - 🔭 Desejo entrar na área de desenvolvimento como back-and
