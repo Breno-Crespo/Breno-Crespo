@@ -1,4 +1,6 @@
 <h1 align="left">Olá, Mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Breno Crespo</h1>
+
+
 🔭 Aspirante a desenvolvedor, buscando oportunidades para entrar no mercado de tecnologia.
 
 📖 Atualmente estudando Python e Inteligência Artificial, com foco em desenvolver habilidades em programação e ciência de dados.
